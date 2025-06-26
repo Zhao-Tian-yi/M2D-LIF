@@ -4,4 +4,4 @@
 <a href="https://arxiv.org/abs/2503.11780"><img src="https://img.shields.io/badge/arXiv-2503.11780-b31b1b" alt="arXiv"></a>
 </div>
 
-**The README will be update soon!**
+**The README will be updated soon!**
