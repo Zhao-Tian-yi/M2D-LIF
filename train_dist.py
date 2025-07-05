@@ -22,8 +22,8 @@ if __name__ == '__main__':
 
 
     # args = dict(
-    #     model=r"/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/model_yaml/yolov8-LIF.yaml",
-    #     data=r"/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/data/LLVIP.yaml",
+    #     model=r"./model_yaml/yolov8-LIF.yaml",
+    #     data=r"./data/LLVIP.yaml",
     #     Distillation="MultiDistillation",
     #     distill_weight=0.8,
     #     Teacher_Model_RGB=model_t_rgb["model"],
@@ -53,8 +53,8 @@ if __name__ == '__main__':
 
 
     args = dict(
-        model=r"/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/model_yaml/yolov8-LIF.yaml",
-        data=r"/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/data/FLIR.yaml", 
+        model=r"./model_yaml/yolov8-LIF.yaml",
+        data=r"./data/FLIR.yaml", 
         Distillation="MultiDistillation",
         distill_weight=0.8,
         Teacher_Model_RGB=model_t_rgb["model"],
