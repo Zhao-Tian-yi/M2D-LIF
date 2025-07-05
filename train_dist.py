@@ -14,10 +14,10 @@ if __name__ == '__main__':
     ############### LLVIP #################
     # # TEACHER
     # _, model_t_rgb = attempt_load_one_weight(
-    #     r'/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/checkpoint/monomodal/llvip_rgb.pt')  # the teacher model
+    #     r'./checkpoint/monomodal/llvip_rgb.pt')  # the teacher model
     # model_t_rgb["model"].info()
     # _, model_t_ir = attempt_load_one_weight(
-    #     r'/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/checkpoint/monomodal/llvip_ir.pt')  # the teacher model
+    #     r'./checkpoint/monomodal/llvip_ir.pt')  # the teacher model
     # model_t_ir["model"].info()
 
 
@@ -45,10 +45,10 @@ if __name__ == '__main__':
     ############### FLIR #################
     # TEACHER
     _, model_t_rgb = attempt_load_one_weight(
-        r'/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/checkpoint/monomodal/flir_rgb.pt')  # the teacher model
+        r'./checkpoint/monomodal/flir_rgb.pt')  # the teacher model
     model_t_rgb["model"].info()
     _, model_t_ir = attempt_load_one_weight(
-        r'/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/checkpoint/monomodal/flir_ir.pt')  # the teacher model
+        r'./checkpoint/monomodal/flir_ir.pt')  # the teacher model
     model_t_ir["model"].info()
 
 
