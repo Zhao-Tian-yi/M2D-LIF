@@ -14,16 +14,16 @@ if __name__ == '__main__':
 
     # DroneVehicle TEACHER
     _, model_t_rgb = attempt_load_one_weight(
-        r'/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/checkpoint/dv_ir.pt')
+        r'./checkpoint/dv_ir.pt')
     model_t_rgb["model"].info()
     _, model_t_ir = attempt_load_one_weight(
-        r'/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/checkpoint/dv_ir.pt')
+        r'./checkpoint/dv_ir.pt')
     model_t_ir["model"].info()
 
 
     args = dict(
-        model=r"/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/model_yaml_obb/yolov8_LIF_obb.yaml",
-        data=r"/home/zhaotianyi/M2D-LIF/M2D-LIF_open_source/data/DroneVehicle.yaml", 
+        model=r"./model_yaml_obb/yolov8_LIF_obb.yaml",
+        data=r"./data/DroneVehicle.yaml", 
         Distillation="MultiDistillation",
         distill_weight=0.8,
         Teacher_Model_RGB=model_t_rgb["model"],
