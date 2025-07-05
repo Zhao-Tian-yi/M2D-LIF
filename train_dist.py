@@ -36,6 +36,7 @@ if __name__ == '__main__':
     #     device=4,
     #     lr0=0.001,
     #     online=False,
+    #     augment=True,
     #     workers=4
     # )
 
@@ -66,6 +67,7 @@ if __name__ == '__main__':
         device=4,
         lr0=0.001,
         online=False,
+        augment=True,
         workers=4
     )
 
