@@ -36,6 +36,7 @@ if __name__ == '__main__':
         device=5,
         lr0=0.001,
         online=False,
+        augment=True,
         workers=4
     )
 
