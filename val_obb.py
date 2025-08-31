@@ -10,6 +10,7 @@ if __name__ == '__main__':
 
     args = dict(model="./checkpoint/multimodal/DroneVehicle.pt", data=data,
                 device=5,
-                imgsz=640, batch=1, save=True)
+                imgsz=640, batch=1, save=True, rect=False)
     validator = OBBValidator(args=args)
     validator(model=args["model"])
+
