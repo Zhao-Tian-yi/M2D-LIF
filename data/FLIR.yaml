@@ -1,5 +1,5 @@
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
-path: /home/shared_directory/datasets/zty/FLIR_datasets
+path: your_datset_path/FLIR_datasets
 
 # 下面这些路径是固定的，都不要改，只改上面的'path'
 train: images/train  # train images (relative to 'path') 128 images
@@ -17,4 +17,5 @@ ch: 6
 names:
   0: car
   1: person
+
   2: bicycle
