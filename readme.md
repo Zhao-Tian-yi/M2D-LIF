@@ -63,13 +63,6 @@ Multi-Modal Object Detection (MMOD), due to its stronger adaptability to various
 
 <img src="README.assets/image-20251126214022700.png" alt="image-20251126214022700" style="zoom:50%;" />
 
-# Getting Started
-
-1. [Installation](##:hammer:environment-installation)
-2. [Datasets](##datasets)
-3. [Weights](##weights)
-4. [Evaluation](## evaluation)
-5. [Experiments Results](## experiments-results)
 
 ## :hammer:Environment Installation
 
@@ -166,4 +159,5 @@ Email: <ty_zhao@buaa.edu.cn>.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Zhao-Tian-yi/M2D-LIF&type=date&legend=top-left)](https://www.star-history.com/#Zhao-Tian-yi/M2D-LIF&type=date&legend=top-left)
+
 
