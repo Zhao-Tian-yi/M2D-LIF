@@ -37,7 +37,7 @@ Paper Links:
 **Please leave a <font color='orange'>STAR ⭐</font> if you like this project!**
 
 # :fire:News
-- **Update on 2025/11/29:  The full code and the guidence readme file have been released **
+- ** Update on 2025/11/29:  The full code and the guidence readme file have been released **
 - :fire: **Update on 2025/6/26: This work has been accepted by the top conference ICCV 2025 !**
 - **Update on 2025/06/22: Release the M2D-LIF project repository.**
 
@@ -159,6 +159,7 @@ Email: <ty_zhao@buaa.edu.cn>.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Zhao-Tian-yi/M2D-LIF&type=date&legend=top-left)](https://www.star-history.com/#Zhao-Tian-yi/M2D-LIF&type=date&legend=top-left)
+
 
 
 
