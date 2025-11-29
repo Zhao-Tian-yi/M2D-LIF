@@ -10,9 +10,9 @@
     ·
     <a href=""><strong>Yiming Sun </strong></a>
     ·
-    <a href=""><strong>Maoxun Yuan</strong></a> 
+    <a href="https://yuanmaoxun.github.io/"><strong>Maoxun Yuan</strong></a> 
       ·
-    <a href=""><strong>Xingxing Wei</strong></a>
+    <a href="https://sites.google.com/site/xingxingwei1988/"><strong>Xingxing Wei</strong></a>
   </p>
 
   <p align="center">
@@ -159,5 +159,6 @@ Email: <ty_zhao@buaa.edu.cn>.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Zhao-Tian-yi/M2D-LIF&type=date&legend=top-left)](https://www.star-history.com/#Zhao-Tian-yi/M2D-LIF&type=date&legend=top-left)
+
 
 
