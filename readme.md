@@ -93,9 +93,27 @@ LLVIP_Mul/
 └── labels/
     ├── train/
     └── val/
+DroneVehicle_train_val/
+├── images/
+│   ├── train/
+│   └── val/
+├── images_ir/
+│   ├── train/
+│   └── val/
+└── labels/
+    ├── train/
+    └── val/
+DroneVehicle_test/
+├── images/
+│   └── val/
+├── images_ir/
+│   └── val/
+└── labels/
+    ├── train/
+    └── val/
 ```
 
-! Corresponding files in each folder share the same base filename. All label files have been converted to the YOLO format to be compatible with the Ultralytics framework. Note that the detailed dataset descriptions can be found in the [YOLOV8]([ultralytics/ultralytics: Ultralytics YOLO 🚀](https://github.com/ultralytics/ultralytics)) documentation. The Datasets labels can [download](https://pan.baidu.com/s/1NBDTPIgdlvnARiO_Uy8c-w?pwd=ir9b) here
+! Corresponding files in each folder share the same base filename. All label files have been converted to the YOLO format to be compatible with the Ultralytics framework. Note that the detailed dataset descriptions can be found in the [YOLOV8]([ultralytics/ultralytics: Ultralytics YOLO 🚀](https://github.com/ultralytics/ultralytics)) documentation. The datasets labels can [download](https://pan.baidu.com/s/1NBDTPIgdlvnARiO_Uy8c-w?pwd=ir9b) here.
 
 ## Weights
 
